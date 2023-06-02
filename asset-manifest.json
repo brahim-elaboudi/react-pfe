@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-pfe/static/css/main.39b75515.css",
+    "main.js": "/react-pfe/static/js/main.f036ed3c.js",
+    "static/media/p7.png": "/react-pfe/static/media/p7.76d29e81e5c3a4846a88.png",
+    "static/media/contenu.jpg": "/react-pfe/static/media/contenu.51c5909f06d6fa1db9fa.jpg",
+    "static/media/logo.png": "/react-pfe/static/media/logo.806ea88107e5ce5562f1.png",
+    "static/media/projet.png": "/react-pfe/static/media/projet.3db9b404ff4e162bfcd2.png",
+    "static/media/prof2.png": "/react-pfe/static/media/prof2.4fcd7e575b0c830cb096.png",
+    "static/media/features-2.png": "/react-pfe/static/media/features-2.b60503c7519ff6f3a9ae.png",
+    "static/media/presence.png": "/react-pfe/static/media/presence.e91ad41e14e21c00a25c.png",
+    "index.html": "/react-pfe/index.html",
+    "main.39b75515.css.map": "/react-pfe/static/css/main.39b75515.css.map",
+    "main.f036ed3c.js.map": "/react-pfe/static/js/main.f036ed3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39b75515.css",
+    "static/js/main.f036ed3c.js"
+  ]
+}
